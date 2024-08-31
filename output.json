@@ -1,0 +1,19 @@
+{
+    "ticket_id": "3a16cf52-26a0-47d6-8c91-9810039676ee",
+    "latest_query": [
+        {
+            "role": "user",
+            "content": "Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)"
+        },
+        {
+            "role": "user",
+            "content": "Sent an image (The image shows a small metal bowl containing a variety of dried fruits and nuts. Visible items include a dried fig, almonds, walnuts, and raisins. The bowl is placed on a dark fabric surface, possibly someone's lap.) with the following caption Dry fruits."
+        },
+        {
+            "role": "user",
+            "content": "Replied to the following message: \"Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)\", with: \"Methi dana done\""
+        }
+    ],
+    "generated_response": "Great job for having methi water, continue having it daily, it will help boost your metabolism. \nBut I noticed you're having figs and raisins, which aren't in your diet plan. Can you tell me why you added them? \n",
+    "ideal_response": "Great job for having methi water, continue having it daily, it will help boost your metabolism.\nVarsha, but i also noticed that you are having figs and raisins but they are not presrcibed in the diet plan, can i know why you have added them ?"
+}
